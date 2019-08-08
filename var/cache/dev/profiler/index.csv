@@ -1,4 +1,0 @@
-6c7e24,192.168.32.1,GET,http://localhost/shop,1565280271,,200
-05852e,192.168.32.1,GET,http://localhost/favicon.ico,1565280272,097a9d,200
-097a9d,192.168.32.1,GET,http://localhost/favicon.ico,1565280272,,404
-8a5384,192.168.32.1,GET,http://localhost/api/posts?searchkeys=fisch,1565280274,,200
